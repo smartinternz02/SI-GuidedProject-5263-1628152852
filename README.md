@@ -8,7 +8,9 @@ It is made using the following.
 - Shorthand CSS Framework
 - Remote MYSQL
 
-Demo: [demo]
+Demo: [demo]  
+  
+Demonstration video: [![Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1628351471/video_to_markdown/images/google-drive--1b27VsE7A5lBo7vwzMG0zap6nwhl9bl0O-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1b27VsE7A5lBo7vwzMG0zap6nwhl9bl0O/preview "Demonstration")
 
 ## Features
 
@@ -55,4 +57,5 @@ docker run -p 80:8080 --it -d assignment-management
    [Srping Boot]: <https://github.com/spring-projects/spring-boot>
    [public repository]: <https://github.com/upsurge0/assignment-management>
    [demo]: <http://ec2-157-175-87-244.me-south-1.compute.amazonaws.com/>
+   [video]: <https://drive.google.com/file/d/1b27VsE7A5lBo7vwzMG0zap6nwhl9bl0O/view?usp=sharing>
 
